@@ -1,0 +1,16 @@
+[
+	{
+		"firstName":"John",
+		"lastName":"Doe",
+		"age":32,
+		"phoneNumber":"123-456-7890",
+		"email":"email01@domain.com"
+	},
+	{
+		"firstName":"Jane",
+		"lastName":"Doe",
+		"age":31,
+		"phoneNumber":"123-456-7891",
+		"email":"email02@domain.com"
+	}
+]
